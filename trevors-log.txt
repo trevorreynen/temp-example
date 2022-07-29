@@ -1,0 +1,29 @@
+
+
+I already have Vue installed through NodeJS before beginning project.
+
+Fri. 07/29
+    Terminal: C:\GitHub\Purpose-Financial>
+        vue create frontend
+        !!!! NOTE: These are the setup prompts and my choices. Lines with the "?" are the prompts, lines with "-" are my selected options. This section ends with the next "!!!!"
+            Vue CLI v5.0.8
+            ? Please pick a preset:
+                - Manually select features
+            ? Check the features needed for your project:
+                - Babel, Router, Vuex, CSS Pre-processors
+            ? Choose a version of Vue.js that you want to start the project with
+                - 3.x
+            ? Use history mode for router? (Requires proper server setup for index fallback in production)
+                - Yes
+            ? Pick a CSS pre-processor (PostCSS, Autoprefixer and CSS Modules are supported by default):
+                - Sass/SCSS (with dart-sass)
+            ? Where do you prefer placing config for Babel, ESLint, etc.?
+                - In dedicated config files
+            ? Save this as a preset for future projects?
+                - No
+        !!!! (I chose these options because I have done a simple tutorial project with these options. Probably wont really need any of them but I believe I can always remove if needed.)
+        cd frontend
+
+    Terminal: C:\GitHub\Purpose-Financial\frontend>
+        npm run serve
+
