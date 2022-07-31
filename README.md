@@ -16,8 +16,8 @@ On a side note, I also use two formatters: EditorConfig and Prettierrc, extensio
    - Body
    - Footer
 - The face side of the card can display anything in each section, but each card must have a unique face side.
-- ~~Use VueJS to develop the app.~~
-- ~~Submit the app via public Github Repo with only 1 branch.~~
+- Use VueJS to develop the app.
+- Submit the app via public Github Repo with only 1 branch.
 - You will have 3 business days to complete the Take Home Coding Challenge.
 
 ---

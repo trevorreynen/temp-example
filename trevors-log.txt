@@ -2,7 +2,7 @@
 
 I already have Vue installed through NodeJS before beginning project.
 
-Fri. 07/29
+Log:
     Terminal: C:\GitHub\Purpose-Financial>
         vue create frontend
         !!!! NOTE: These are the setup prompts and my choices. Lines with the "?" are the prompts, lines with "-" are my selected options. This section ends with the next "!!!!"
@@ -10,20 +10,31 @@ Fri. 07/29
             ? Please pick a preset:
                 - Manually select features
             ? Check the features needed for your project:
-                - Babel, Router, Vuex, CSS Pre-processors
+                -
             ? Choose a version of Vue.js that you want to start the project with
                 - 3.x
-            ? Use history mode for router? (Requires proper server setup for index fallback in production)
-                - Yes
-            ? Pick a CSS pre-processor (PostCSS, Autoprefixer and CSS Modules are supported by default):
-                - Sass/SCSS (with dart-sass)
             ? Where do you prefer placing config for Babel, ESLint, etc.?
                 - In dedicated config files
             ? Save this as a preset for future projects?
                 - No
-        !!!! (I chose these options because I have done a simple tutorial project with these options. Probably wont really need any of them but I believe I can always remove if needed.)
+        !!!!
         cd frontend
 
     Terminal: C:\GitHub\Purpose-Financial\frontend>
         npm run serve
+        npm install axios
+
+
+Biggest problems:
+    1. I didn't have contact to anyone who could have helped me, or who this challenge is for. Which left many questions I had about what is expect in the air and I just had to guess.
+        - Was I able to use plugins other than axios which I assume is absolutely required for receiving images from an api?
+        - What exactly is expected for the face of the card being unique? Is it okay to do what I did do and just say "Card One" "Card Two" and so on? Technically that is unique but..
+    2. Looking anything up for this challenge to help (because of problem #1 I resulted to doing this) was near pointless. Some of it was trial and error, some of it was referencing a previous vue project of mine.
+
+Notes after completing:
+    - I assume this could have been done in a more efficient way but I am not that good with vue.
+
+
+
+
 
