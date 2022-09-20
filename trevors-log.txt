@@ -3,7 +3,7 @@
 I already have Vue installed through NodeJS before beginning project.
 
 Log:
-    Terminal: C:\GitHub\Purpose-Financial>
+    Terminal: C:\GitHub\...>
         vue create frontend
         !!!! NOTE: These are the setup prompts and my choices. Lines with the "?" are the prompts, lines with "-" are my selected options. This section ends with the next "!!!!"
             Vue CLI v5.0.8
@@ -20,7 +20,7 @@ Log:
         !!!!
         cd frontend
 
-    Terminal: C:\GitHub\Purpose-Financial\frontend>
+    Terminal: C:\GitHub\...\frontend>
         npm run serve
         npm install axios
 

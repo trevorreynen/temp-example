@@ -4,22 +4,6 @@ As I do with most other projects, I am going to be using a personal log file cal
 
 On a side note, I also use two formatters: EditorConfig and Prettierrc, extensions in VSCode. The two files in my project root containing settings for these formatters are hidden.
 
-#### Instructions
-
-- Create an app that will display 10 cards in two rows of 5.
-- When the app starts, all 10 cards should be face down.
-   - Each card should display a random image from this free API.
-      - https://dog.ceo/dog-api/
-- When a card is clicked it will flip over and display its faceup side.
-- The faceup side of the card needs to have the following parts displayed, from top to bottom:
-   - Header
-   - Body
-   - Footer
-- The face side of the card can display anything in each section, but each card must have a unique face side.
-- Use VueJS to develop the app.
-- Submit the app via public Github Repo with only 1 branch.
-- You will have 3 business days to complete the Take Home Coding Challenge.
-
 ---
 
 ## Project Tools
