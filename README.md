@@ -1,4 +1,4 @@
-# Purpose Financial – Junior Web Developer Coding Challenge
+# Temporary title
 
 As I do with most other projects, I am going to be using a personal log file called "trevors-log.txt". It will contain nearly everything I do along with notes if I feel the need to take notes for whatever reason. It's unorganized and probably not useful for anyone except myself. However, in case I need to reference something in the future, I will have that file.
 
